@@ -51,7 +51,7 @@ cd frontend
 npm install
 npm run dev
 ```
-- Frontend runs at http://localhost:3000
+- Frontend runs at http://localhost:8000
 
 ### Backend Setup
 ```bash
@@ -72,3 +72,4 @@ python app.py
 -Thanks to Murf AI for their Translation & Text-to-Speech APIs
 
 -Uses AssemblyAI for transcription
+
